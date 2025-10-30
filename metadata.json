@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Audio Mixer",
+  "description": "An audio mixing tool to combine a voice-over file with a background music file, featuring automatic audio ducking to lower the music volume during speech.",
+  "requestFramePermissions": []
+}
